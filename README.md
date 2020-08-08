@@ -10,3 +10,5 @@
       
 </p>
       
+<p> Teach Stack </p>
+<p> HTML, CSS, Javascript,..</p>
